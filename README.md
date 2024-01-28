@@ -10,7 +10,8 @@ This application offers a streamlined interface for users to manage their tasks 
 
 ### Mobile View
 
-![Task Management Interface](([https://imgur.com/IwpI4n6](https://drive.google.com/file/d/1N-ldDzUAi3vzJac2Wr0D8okpEE_mOkNV/view?usp=sharing)))
+![Mobile View](https://github.com/rakesh4902/todos-task-claimzippy-assignment-/assets/83058036/98433440-1d7f-4042-87e0-1f6ff8a68eb5)
+
 
 
 ### Data Validation
@@ -20,8 +21,10 @@ This application offers a streamlined interface for users to manage their tasks 
 - Both the title and description fields must not be empty.
 - This validation ensures that only valid task data is accepted and stored, enhancing the reliability of the application.
 
-- ![Task Management Interface]((https://imgur.com/a/WYZDT3I))
-- ![Task Management Interface]((https://imgur.com/00fRdfE))
+- ![Validation-1 view](https://github.com/rakesh4902/todos-task-claimzippy-assignment-/assets/83058036/e9a7cb07-98bc-4b26-930c-830f41748dec)
+
+- ![Validation-2 view](https://github.com/rakesh4902/todos-task-claimzippy-assignment-/assets/83058036/d7fcee93-428c-4514-a482-d6b50806a7e2)
+
 
 
 
