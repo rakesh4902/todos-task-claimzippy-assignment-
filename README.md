@@ -5,7 +5,8 @@ This application offers a streamlined interface for users to manage their tasks 
 
 ### Desktop View
 
-![Task Management Interface]((https://imgur.com/a/WYZDT3I))
+![Desktop View](https://github.com/rakesh4902/todos-task-claimzippy-assignment-/assets/83058036/1fb52ca6-640d-49ae-acdd-d3b86b756103)
+
 
 ### Mobile View
 
