@@ -1,0 +1,43 @@
+### Create a Task
+POST http://localhost:3000/tasks
+Content-Type: application/json
+
+{
+  "title": "Java",
+  "description": "Learn Java Within 30 days"
+}
+
+### Create a Task
+POST http://localhost:3000/tasks
+Content-Type: application/json
+
+{
+  "title": "Python Programming",
+  "description": "Learn Python Programming within 10 days"
+}
+
+### Read All The Tasks
+GET http://localhost:3000/tasks
+
+### Update Particular Task
+PUT http://localhost:3000/tasks/2
+Content-Type: application/json
+
+{
+    "title":"C Programming",
+    "description":"Learn C Programming within 10 days"
+}
+
+### CREATE NEW TASK
+POST http://localhost:3000/tasks
+Content-Type: application/json
+
+{
+  "title": "C++ Programming",
+  "description": "Learn Python Programming within 15 days"
+}
+
+### DELETE PARTICULAR TASK
+DELETE http://localhost:3000/tasks/4
+
+
