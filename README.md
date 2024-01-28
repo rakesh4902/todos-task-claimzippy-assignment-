@@ -1,4 +1,4 @@
-#### Task Management Application Overview
+# Task Management Application Overview
 
 This application offers a streamlined interface for users to manage their tasks efficiently. Users can create, update, and delete tasks seamlessly within the user-friendly environment. The frontend, powered by React, presents a task form enabling users to input task details such as title and description, while tasks are displayed dynamically in a list format.
 
@@ -21,9 +21,9 @@ This application offers a streamlined interface for users to manage their tasks 
 - Both the title and description fields must not be empty.
 - This validation ensures that only valid task data is accepted and stored, enhancing the reliability of the application.
 
-- ![Validation-1 view](https://github.com/rakesh4902/todos-task-claimzippy-assignment-/assets/83058036/e9a7cb07-98bc-4b26-930c-830f41748dec)
+- ![Validation-1 view](https://github.com/rakesh4902/todos-task-claimzippy-assignment-/assets/83058036/e9a7cb07-98bc-4b26-930c-830f41748dec) ,![Validation-2 view](https://github.com/rakesh4902/todos-task-claimzippy-assignment-/assets/83058036/d7fcee93-428c-4514-a482-d6b50806a7e2)
 
-- ![Validation-2 view](https://github.com/rakesh4902/todos-task-claimzippy-assignment-/assets/83058036/d7fcee93-428c-4514-a482-d6b50806a7e2)
+
 
 
 
@@ -34,7 +34,7 @@ This workflow enables users to perform actions on tasks with ease, enhancing pro
 
 
 
-#### How to Start This Application on Your Local PC
+## How to Start This Application on Your Local PC
 
 To start this application on your local PC, follow these step-by-step instructions:
 
