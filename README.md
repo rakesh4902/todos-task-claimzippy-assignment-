@@ -9,7 +9,7 @@ This application offers a streamlined interface for users to manage their tasks 
 
 ### Mobile View
 
-![Task Management Interface]((https://imgur.com/IwpI4n6))
+![Task Management Interface](([https://imgur.com/IwpI4n6](https://drive.google.com/file/d/1N-ldDzUAi3vzJac2Wr0D8okpEE_mOkNV/view?usp=sharing)))
 
 
 ### Data Validation
