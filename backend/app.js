@@ -1,4 +1,3 @@
-// backend/server.js
 const express = require('express');
 const cors = require('cors');
 const { Sequelize, DataTypes } = require('sequelize');
@@ -39,7 +38,6 @@ sequelize.sync({ force: false })
   });
 
 // Middleware for data validation 
-// Middleware for data validation
 const validateTaskData = (req, res, next) => {
   const { title, description } = req.body;
   let errors = "";
