@@ -3,8 +3,8 @@
     display:flex;
     flex-direction: row;
     background-image: url('http://tinyurl.com/bdzbwhdy');
-    background-size: cover; /* Adjusted to contain */
-    background-repeat: no-repeat; /* Prevent repeating */
+    background-size: cover; 
+    background-repeat: no-repeat; 
     flex-wrap: wrap;
     
     min-height:100vh;
@@ -130,9 +130,9 @@
 
 
 .task-title {
-    flex: 1; /* Allow title to grow and shrink */
-    min-width: 500px; /* Minimum width for title */
-    max-width: 700px; /* Maximum width for title */
+    flex: 1; 
+    min-width: 500px; 
+    max-width: 700px; 
     color: #EBFCF0;
     font-size: 18px;
     margin: 0;
@@ -149,9 +149,9 @@
 
 
 .title-divider {
-    width: 100%; /* Full width for the divider */
-    margin: 5px 0; /* Adjust vertical margin */
-    border: 1px solid #ccc; /* Style and color of the divider */
+    width: 100%; 
+    margin: 5px 0; 
+    border: 1px solid #ccc; 
     @media only screen and (max-width:768px) {
         margin:3px;
         width:98%;
@@ -159,9 +159,9 @@
 }
 
 .task-description {
-    flex: 1; /* Allow description to grow and shrink */
-    min-width: 500px; /* Minimum width for description */
-    max-width: 700px; /* Maximum width for description */
+    flex: 1; 
+    min-width: 500px; 
+    max-width: 700px; 
     color: #ffffff;
     margin: 0;
     background-color: rgba(200, 200, 200, 0.2);
