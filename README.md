@@ -1,4 +1,36 @@
-### How to Start This Application on Your Local PC
+#### Task Management Application Overview
+
+This application offers a streamlined interface for users to manage their tasks efficiently. Users can create, update, and delete tasks seamlessly within the user-friendly environment. The frontend, powered by React, presents a task form enabling users to input task details such as title and description, while tasks are displayed dynamically in a list format.
+
+
+### Desktop View
+
+![Task Management Interface]((https://imgur.com/a/WYZDT3I))
+
+### Mobile View
+
+![Task Management Interface]((https://imgur.com/IwpI4n6))
+
+
+### Data Validation
+
+- The backend, built with Express and Sequelize, includes a validation process for incoming task data.
+- Users must enter a title with a minimum of 2 characters.
+- Both the title and description fields must not be empty.
+- This validation ensures that only valid task data is accepted and stored, enhancing the reliability of the application.
+
+- ![Task Management Interface]((https://imgur.com/a/WYZDT3I))
+- ![Task Management Interface]((https://imgur.com/00fRdfE))
+
+
+
+
+This workflow enables users to perform actions on tasks with ease, enhancing productivity and organization in their workflow.
+
+
+
+
+#### How to Start This Application on Your Local PC
 
 To start this application on your local PC, follow these step-by-step instructions:
 
